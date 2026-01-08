@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Madhukar Janjire
-- 👀 I’m interested in IoT, Web Developement, SW Developement
+- 👀 I’m interested in IoT, Web Development, SW Development
 - 🌱 I’m currently learning IoT
+- Doing research in Hydroponics Farming using IoT
 
 
 <!---
